@@ -1,0 +1,15 @@
+html, body{
+    background-color: bisque;
+}
+p{color: red;}
+
+.center{
+    text-align: right;
+    color: green;
+}
+
+
+#idselector{
+    color:blue;
+    font-weight: bolder;
+}
